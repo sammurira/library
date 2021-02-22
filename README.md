@@ -1,2 +1,4 @@
-# library
-Library App Ember Django
+# A Basic library App
+
+
+Basic library app to explore Ember and Django
